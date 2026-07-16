@@ -1,0 +1,50 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.piorepo/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build
+build/
+.build/
+
+# Compiled files
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Config files with secrets
+src/config/config.h
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+*.egg
+venv/
+.env
+
+# Logs
+*.log
+serial_output/
+
+# Temporary
+tmp/
+temp/

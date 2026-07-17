@@ -35,7 +35,7 @@
 <!-- ═══════════════════════ PROJECT POSTER ═══════════════════════ -->
 
 <p align="center">
-  <img src="docs/images/projectposter.png" width="92%" alt="SmartAlert AQUA-LOGIC project overview poster" />
+  <img src="docs/images/project_poster.png" width="92%" alt="SmartAlert AQUA-LOGIC project overview poster" />
 </p>
 
 <p align="center">

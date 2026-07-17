@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:3b82f6&height=230&section=header&text=SmartAlert&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20IoT%20Multi-Hazard%20Disaster%20Monitoring%20System&descSize=17&descAlignY=55&descAlign=50" width="100%" alt="SmartAlert header banner" />
+  <img src=<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=230&section=header&text=SmartAlert&fontSize=65&fontColor=f8fafc&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:eff6ff,50:bfdbfe,100:3b82f6&height=230&section=header&text=SmartAlert&fontSize=65&fontColor=1e3a8a&animation=twinkling">
+  <img alt="SmartAlert Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=230&section=header&text=SmartAlert&fontSize=65&fontColor=f8fafc&animation=twinkling">
+</picture>
+
+<div align="center">
 </p>
 
 <h3 align="center">

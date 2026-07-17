@@ -35,7 +35,7 @@
 <!-- ═══════════════════════ PROJECT POSTER ═══════════════════════ -->
 
 <p align="center">
-  <img src="docs/images/project_poster.png" width="92%" alt="SmartAlert AQUA-LOGIC project overview poster" />
+  <img src="docs/images/project_poster.jpg" width="92%" alt="SmartAlert AQUA-LOGIC project overview poster" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ An **affordable**, **multi-hazard**, **API-verified** monitoring system with:
 </td>
 <td width="50%" align="center">
 
-<img src="docs/images/hackathon_badge.jpg" width="260" alt="Infosys Global Hackathon 2025 — Kedar Hukkeri — Team AquaLogic" />
+<img src="docs/images/hackathon_badge.png" width="260" alt="Infosys Global Hackathon 2025 — Kedar Hukkeri — Team AquaLogic" />
 
 <br><br>
 

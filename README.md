@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:3b82f6&height=230&section=header&text=🚨%20SmartAlert&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20IoT%20Multi-Hazard%20Disaster%20Monitoring%20System&descSize=17&descAlignY=55&descAlign=50" width="100%" alt="SmartAlert header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:3b82f6&height=230&section=header&text=SmartAlert&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20IoT%20Multi-Hazard%20Disaster%20Monitoring%20System&descSize=17&descAlignY=55&descAlign=50" width="100%" alt="SmartAlert header banner" />
 </p>
 
 <h3 align="center">

@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Infosys_Global_Hackathon_2025-🏆_TOP_20_NATIONAL_FINALIST-FFD700?style=for-the-badge&labelColor=1a365d" alt="Hackathon badge" />
+  <img src="https://img.shields.io/badge/Infosys_Global_Hackathon_2025-🏆_TOP_20_NATIONAL_FINALIST-FFD700?style=for-the-badge&labelColor=1a365d" alt="hackathon_badge" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 <!-- ═══════════════════════ PROJECT POSTER ═══════════════════════ -->
 
 <p align="center">
-  <img src="docs/images/project_poster.png" width="92%" alt="SmartAlert AQUA-LOGIC project overview poster" />
+  <img src="docs/images/projectposter.png" width="92%" alt="SmartAlert AQUA-LOGIC project overview poster" />
 </p>
 
 <p align="center">

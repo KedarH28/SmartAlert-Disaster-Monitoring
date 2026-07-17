@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Infosys_Global_Hackathon_2025-🏆_TOP_20_NATIONAL_FINALIST-FFD700?style=for-the-badge&labelColor=1a365d" alt="hackathon_badge" />
+  <img src="https://img.shields.io/badge/Infosys_Global_Hackathon_2025-🏆_TOP_20_NATIONAL_FINALIST-FFD700?style=for-the-badge&labelColor=1a365d" alt="hackathon_badge.png" />
 </p>
 
 <p align="center">
